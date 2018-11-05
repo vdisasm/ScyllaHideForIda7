@@ -42,6 +42,7 @@ You need to deploy following files:
 - InjectorCLIx86.exe
 - NtApiCollection.ini
 - scylla_hide.ini
+- ScyllaHideForIda7Plugin.dll
 - ScyllaHideForIda7Plugin64.dll
 
 # How it works
